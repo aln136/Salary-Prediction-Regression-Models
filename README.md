@@ -16,8 +16,9 @@ The models are evaluated using the following metrics:
 - **Mean Absolute Error (MAE):** Measures the average difference between predicted values and actual values.
 
 ## Key Findings
-- **Neural Network vs. Linear Regression:** The Neural Network model significantly outperformed the Linear Regression model in both RMSE and MAE. The Neural Network showed a better ability to capture complex patterns in the data, leading to more accurate salary predictions.
+- **Neural Network Model Superiority**: The Neural Network model outperformed the Linear Regression model across both key metrics. It achieved a significantly lower Root Mean Squared Error (RMSE) of 849.3639 and a lower Mean Absolute Error (MAE) of 654.8385.
 - **Note:** The superior performance of the Neural Network is partly due to extensive parameter tuning and optimization, whereas the Linear Regression model was not as extensively fine-tuned.
 
+
 ## Conclusion
-This notebook provides insights into how Linear Regression and Neural Network models perform in predicting salary from years of experience. In my analysis, the Neural Network model performed the best according to my performance metrics.
+This notebook provides insights into how Linear Regression and Neural Network models perform in predicting salary from years of experience. In my analysis, the Neural Network model performed the best according to two performance metrics.
